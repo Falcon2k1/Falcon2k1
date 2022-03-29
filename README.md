@@ -1,7 +1,7 @@
 Hi, it's Will!
 
 What I do:
-- Career Crisis Manager @ Amazon, Microsoft
+- Long-time Crisis Manager @ Amazon, Microsoft
 - Python Systems Developer @ Amazon
 
 Other information about me:
